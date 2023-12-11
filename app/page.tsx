@@ -15,7 +15,7 @@ export default function Home() {
           </p>
         </div>
       </header>
-      {/* 
+
       <section className="py-16">
         <div className="container mx-auto text-center">
           <h2 className="text-3xl font-bold mb-8">Key Features</h2>
@@ -42,13 +42,13 @@ export default function Home() {
             </div>
           </div>
         </div>
-      </section> */}
+      </section>
 
-      {/* <footer className="bg-gray-800 text-white py-8">
+      <footer className="bg-gray-800 text-white py-8">
         <div className="container mx-auto text-center">
           <p>© 2023 Your Company. All rights reserved.</p>
         </div>
-      </footer> */}
+      </footer>
     </>
   );
 }
